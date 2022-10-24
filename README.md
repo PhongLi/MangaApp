@@ -5,8 +5,8 @@
 </p>
 
 # Introduction
-This repository is made to read mana from [Nettruyen website](http://www.nettruyenme.com/).
-Maybe the site will change domain name in future. You can change the link in folder apis to crawler it 
+This repository is made to read manga series from [Nettruyen website](http://www.nettruyenme.com/).
+Maybe the site will change its domain name in the future. You can change the link in folder APIs to crawl it 
 
 ## Member
 
