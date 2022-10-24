@@ -1,8 +1,5 @@
-# NT118.M22_ReactMangaApp
+# MangaNetApp
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/56221762/111880949-da1dd580-89e0-11eb-876c-a68752260d3b.png">
-</p>
 
 # Introduction
 This repository is made to read manga series from [Nettruyen website](http://www.nettruyenme.com/).
